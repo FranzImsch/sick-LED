@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name Krasse-LED-rescue)(type Legacy)(uri ${KIPRJMOD}/Krasse-LED-rescue.lib)(options "")(descr ""))
+)

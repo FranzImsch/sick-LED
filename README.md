@@ -10,14 +10,13 @@ Six channel LED driver board that is built around the [LZ7-04-M2PD](https://www.
  It's a 60W LED with six colours, which can be used to do some adjustable white experiments due to the relatively full spectrum of the LED (at least compared to a normal RGB-LED): 
 
 ![spectrum](Docu/spectrum-combined.png)
-Source: [LED Datasheet](https://dammedia.osram.info/media/resource/hires/osram-dam-14744640/LZ7-04M2PD_EN.pdf)
 
 The project's objective is not to build an LED that is as bright as possible but to create a dev board that makes it easy to study RGBALC LEDs. Thus, the board is powered via USB-PD and programmed with Arduino.
 
 ## Hardware
 The PCB is mounted on a heatsink (100x100x40mm black anodised aluminium) using four M3 screws. Two 40mm fans could be attached to the heatsink and powered using the provided 2.54mm headers (the thermal characteristics of the whole design have not been tested yet).  
-## Fusion360 online viewer (design still in progress!):
-<html><iframe src="https://myhub.autodesk360.com/ue2903977/shares/public/SH56a43QTfd62c1cd968226c2e95e4293a66?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe></html>
+### Fusion360 online viewer (design still in progress!):
+https://a360.co/2VWAmD9
 
 ## Components
  * LED Driver: **BP1808**

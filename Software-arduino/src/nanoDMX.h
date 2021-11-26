@@ -1,0 +1,2 @@
+void nanoDMXinit();
+void receiveDMXviaUSB();

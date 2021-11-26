@@ -1,0 +1,2 @@
+void safetyinit();
+void safetyRoutine();

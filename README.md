@@ -5,7 +5,7 @@
   
 **\*Work in progress\***
 
-![rendering](Documentation/rendering.PNG)
+![rendering](Documentation/rendering.png)
 
 Six channel LED driver board that is built around the [LZ7-04-M2PD](https://www.osram.com/ecat/LED%20ENGIN%20LuxiGen%20LZ7-04M2PD/com/en/class_pim_web_catalog_103489/prd_pim_device_13582430/) on MCPCB from LED Engin.
 
